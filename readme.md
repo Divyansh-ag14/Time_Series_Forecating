@@ -1,15 +1,15 @@
-# What is Time Series?
+## What is Time Series?
 
-## A series of values of a quantity indexed in time order, usually observed at equal interval of time.
+### A series of values of a quantity indexed in time order, usually observed at equal interval of time.
 
-# What is different in Time Seires?
+## What is different in Time Seires?
 
-## ● Has a date-time component
-## ● Subsequent observations depend on the previous values
-## ● Observations collected at equal intervals of time
+### ● Has a date-time component
+### ● Subsequent observations depend on the previous values
+### ● Observations collected at equal intervals of time
 
-# Applications: 
+## Applications: 
 
-## ● Airlines industries: (Number of passengers booking a particular airline)
-## ● Manufacturing industry: (Number of sales in the past three years?)
-## ● Power Industry: (Amount of electricity consumption of an area)
+### ● Airlines industries: (Number of passengers booking a particular airline)
+### ● Manufacturing industry: (Number of sales in the past three years?)
+### ● Power Industry: (Amount of electricity consumption of an area)
