@@ -22,3 +22,7 @@
 
 #### ○ A series exhibits a trend is referred to as a trend stationary series. 
 #### ○ Once the trend is removed, the resulting series will be strict stationary
+
+## How to make Series Stationary?
+
+● Remove trend and seasonal component
