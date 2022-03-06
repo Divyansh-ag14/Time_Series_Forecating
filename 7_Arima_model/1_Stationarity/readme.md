@@ -25,4 +25,4 @@
 
 ## How to make Series Stationary?
 
-● Remove trend and seasonal component
+### ● Remove trend and seasonal component
