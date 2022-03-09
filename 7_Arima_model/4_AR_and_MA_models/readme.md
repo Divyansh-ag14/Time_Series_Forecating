@@ -14,6 +14,6 @@
 ### ● Preferably used when there are random spikes/jumps in the data
 
 ## ARMA (p,q):
-###● ARMA models are composed of two models, the AR model and the MA model
-###● AR or MA are not applicable on non-stationary series
+### ● ARMA models are composed of two models, the AR model and the MA model
+### ● AR or MA are not applicable on non-stationary series
 #### The ARMA model of order (p,q) is: We can combine these two models by simply adding them together as a model of order (p,q), where we have p AR terms and q MA terms:
