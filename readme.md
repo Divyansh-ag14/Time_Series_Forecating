@@ -5,7 +5,7 @@
 ### What is different in Time Seires?
 
 **● Has a date-time component**
-#### ● Subsequent observations depend on the previous values
+**● Subsequent observations depend on the previous values**
 #### ● Observations collected at equal intervals of time
 
 ### Applications: 
